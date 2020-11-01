@@ -1,12 +1,22 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+
+Welcome to **awesome** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through to learn about making your project friendlier for collaboration.
+
+A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
+
 
 ## What it does
 
 FEATURES PLACEHOLDER
 
-## Getting started
+Welcome new users with maintainer defined comments the first time your users:
+- Create a new issue
+- Open a new pull request
+- Merge their first pull request
+
+![issue tab](https://lab.github.com/public/images/issue_tab.png)
+
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
